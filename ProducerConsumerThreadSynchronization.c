@@ -1,7 +1,7 @@
 // Name : Nilanshu Sharma
 
 /* This code demostrates producer-consumer synchronization using  
- * condition variables. There is three producers - White, Red, 
+ * condition variables. There are three producers - White, Red, 
  * Black each of which produce 1000 items. The items are simple  
  * strings which contain the producer name - While, Red or Black 
  * and the unix timestamp at which was generated. The consumer 
