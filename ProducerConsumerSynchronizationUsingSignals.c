@@ -1,7 +1,7 @@
 // Name : Nilanshu Sharma
 
 /*
- * This code demonstrates creates shared memory segments between   
+ * This code creates shared memory segments between   
  * two processes. This segment is used a common buffer for     
  * producer and consumer. There is one producer and one
  * consumer. Since both the processes share the buffer, the
